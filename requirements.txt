@@ -1,0 +1,11 @@
+streamlit>=1.45.0
+pydantic>=2.11.4
+openai>=1.76.2
+python-dotenv>=1.1.0
+requests>=2.32.3
+PyYAML>=6.0.2
+sqlalchemy>=2.0.40
+psycopg2-binary>=2.9.10
+alembic>=1.15.2
+streamlit-option-menu>=0.4.0
+streamlit-ace>=0.1.1
